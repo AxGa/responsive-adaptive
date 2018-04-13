@@ -24,7 +24,7 @@ Is Google’s recommended design pattern                                        
 Requires less engineering time to maintain multiple pages for the same content| More loading time as everything from the desktop version is downloaded, even if it’s not used in the mobile version
 
 
-</br>
+<br></br>
 2. **Adaptive web design**
 
 Pros :thumbsup:                                                                  | Cons :thumbsdown:
@@ -33,7 +33,7 @@ Is faster as the browser downloads the assets needed for the specific screen siz
 You can create a completely different user journey for different devices         | For adaptive web design you need to detect user-agents (sometimes called user-agent “sniffing”) which is generally an error-prone technique
 
 
-</br>
+
 3. **Separate URLs**
 
 Pros :thumbsup:                                                                    | Cons :thumbsdown:
