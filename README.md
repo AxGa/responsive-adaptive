@@ -17,7 +17,7 @@ There are three main techniques for implementing a website that can handle view 
 ## Pros & Cons
 
 1. **Responsive web design:**
-Pros | Cons
----- | ----
+Pros                                              | Cons
+------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------
 :thumbsup: Is Google’s recommended design pattern | :thumbsdown: More coding and testing in order to ensure that the site fits each and every screen that access it
-:thumbsup: You have to mantain only one html | 
+:thumbsup: You have to mantain only one html      | 
