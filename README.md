@@ -43,7 +43,7 @@ Better user experience, the website being specifically optimized for mobile devi
 Faster page load times-frames                                                      | More challenges with user redirecting and cross-linking between the two platforms
 
 <br></br>
-## Responsiveness in GIFs
+## Basic responsive elements explained in GIFs
 ![ResponsiveVsAdaptive](https://s3.eu-central-1.amazonaws.com/displaycase.akylleez/infogr8/responsive-gifs/3038367-inline-i-1-9-gifs-that-explain-responsive-design-brilliantly-01responsive-vs-adaptive-copy+(1).gif)
 ###### Responsive designs fluidly expand, whereas adaptive designs hitch as you expand a browser or viewport.
 
