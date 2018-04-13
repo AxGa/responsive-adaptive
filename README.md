@@ -18,15 +18,16 @@ There are three main techniques for implementing a website that can handle view 
 
 1. **Responsive web design**
 
-Pros|Cons
+Pros :thumbsup:|Cons :thumbsdown:
 ----|----
-:thumbsup: Is Google’s recommended design pattern|:thumbsdown: More coding and testing in order to ensure that the site fits each and every screen that access it
-:thumbsup: Requires less engineering time to maintain multiple pages for the same content| :thumbsdown: More loading time as everything from the desktop version is downloaded, even if it’s not used in the mobile version
+Is Google’s recommended design pattern| More coding and testing in order to ensure that the site fits each and every screen that access it
+Requires less engineering time to maintain multiple pages for the same content| More loading time as everything from the desktop version is downloaded, even if it’s not used in the mobile version
+
 
 
 2. **Adaptive web design**
 
-Pros|Cons
+Pros :thumbsup:|Cons :thumbsdown:
 ----|----
-:thumbsup: Is faster as the browser downloads the assets needed for the specific screen size|:thumbsdown: You need to create many html templates for each device that's very time consuming for both development and maintanance 
-:thumbsup: You can create a completely different user journey for different devices| :thumbsdown: For adaptive web design you need to detect user-agents (sometimes called user-agent “sniffing”) which is generally an error-prone technique
+Is faster as the browser downloads the assets needed for the specific screen size| You need to create many html templates for each device that's very time consuming for both development and maintanance 
+You can create a completely different user journey for different devices| For adaptive web design you need to detect user-agents (sometimes called user-agent “sniffing”) which is generally an error-prone technique
