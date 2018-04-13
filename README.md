@@ -45,20 +45,20 @@ Faster page load times-frames                                                   
 <br></br>
 ## Basic responsive elements explained in GIFs
 ![ResponsiveVsAdaptive](https://s3.eu-central-1.amazonaws.com/displaycase.akylleez/infogr8/responsive-gifs/3038367-inline-i-1-9-gifs-that-explain-responsive-design-brilliantly-01responsive-vs-adaptive-copy+(1).gif)
-###### Responsive designs fluidly expand, whereas adaptive designs hitch as you expand a browser or viewport.
+###### 1. Responsive designs fluidly expand, whereas adaptive designs hitch as you expand a browser or viewport.
 
 <br></br>
 ![RelativeStaticUnits](https://s3.eu-central-1.amazonaws.com/displaycase.akylleez/infogr8/responsive-gifs/3038367-inline-i-2-9-gifs-that-explain-responsive-design-brilliantly-02relative-units-vs-static-units-1-copy.gif)
-###### Use relative units, like percent of the screen, instead of static units like pixels.
+###### 2. Use relative units, like percent of the screen, instead of static units like pixels.
 
 <br></br>
 ![Breakpoints](https://s3.eu-central-1.amazonaws.com/displaycase.akylleez/infogr8/responsive-gifs/3038367-inline-i-3-9-gifs-that-explain-responsive-design-brilliantly-03with-breakpoints-vs-without-breakpoints-1-co.gif)
-###### Breakpoints allow the layout to change at predefined points, i.e. having three columns on a desktop, but only one column on a mobile device.
+###### 3. Breakpoints allow the layout to change at predefined points, i.e. having three columns on a desktop, but only one column on a mobile device.
 
 <br></br>
 ![Nesting](https://s3.eu-central-1.amazonaws.com/displaycase.akylleez/infogr8/responsive-gifs/3038367-inline-i-5-9-gifs-that-explain-responsive-design-brilliantly-05nested-vs-not-nested-1-copy.gif)
-###### Nest elements to larger containers to adapt to a shrinking or expanding screen as one, instead of individually.
+###### 4. Nest elements to larger containers to adapt to a shrinking or expanding screen as one, instead of individually.
 
 <br></br>
 ![Max Width](https://s3.eu-central-1.amazonaws.com/displaycase.akylleez/infogr8/responsive-gifs/3038367-inline-i-7-9-gifs-that-explain-responsive-design-brilliantly-07max-width-vx-no-max-width-1-copy.gif)
-###### Sometimes it’s great that content takes up the whole width of a screen, like on a mobile device, but having the same content stretching to the whole width of your TV screen often makes less sense.
+###### 5. Sometimes it’s great that content takes up the whole width of a screen, like on a mobile device, but having the same content stretching to the whole width of your TV screen often makes less sense.
