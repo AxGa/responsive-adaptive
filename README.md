@@ -18,9 +18,9 @@ There are three main techniques for implementing a website that can handle view 
 
 1. **Responsive web design**
 
-Pros :thumbsup:|Cons :thumbsdown:
-----|----
-Is Google’s recommended design pattern| More coding and testing in order to ensure that the site fits each and every screen that access it
+Pros :thumbsup:                                                               | Cons :thumbsdown:
+------------------------------------------------------------------------------|-----------------------------------------------------------------------------
+Is Google’s recommended design pattern                                        | More coding and testing in order to ensure that the site fits each and every screen that access it
 Requires less engineering time to maintain multiple pages for the same content| More loading time as everything from the desktop version is downloaded, even if it’s not used in the mobile version
 
 
