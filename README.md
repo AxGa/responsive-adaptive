@@ -3,7 +3,7 @@ A guide about the debate Responsive vs Adaptive web-design
 
 ![Image of Content is like Water](https://cdn-images-1.medium.com/max/2000/1*kd07zXQBI3s0uPm4msF21w.jpeg)
 
-
+<br></br>
 ## Definitions
 There are three main techniques for implementing a website that can handle view screens of all types and sizes.
 
@@ -13,10 +13,10 @@ There are three main techniques for implementing a website that can handle view 
 
 3. **Separate URLs:** Serves different code to each device, and on separate URLs. This configuration tries to detect the users’ device, then redirects to the appropriate page using HTTP redirects along with the Vary HTTP header.
 
-
+<br></br>
 ## Pros & Cons
 
-<br></br>
+
 1. **Responsive web design**
 
 Pros :thumbsup:                                                               | Cons :thumbsdown:
@@ -41,3 +41,7 @@ Pros :thumbsup:                                                                 
 -----------------------------------------------------------------------------------|-----------------------------------------------------
 Better user experience, the website being specifically optimized for mobile devices| Higher costs in terms of implementation, maintenance
 Faster page load times-frames                                                      | More challenges with user redirecting and cross-linking between the two platforms
+
+<br></br>
+## Responsiveness in GIFs
+![Image of Content is like Water](https://images.fastcompany.net/image/upload/w_596,c_limit,q_auto:best,f_webm,fl_lossy/fc/3038367-inline-i-1-9-gifs-that-explain-responsive-design-brilliantly-01responsive-vs-adaptive-copy.gif)
