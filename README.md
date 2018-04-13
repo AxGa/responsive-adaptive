@@ -44,4 +44,4 @@ Faster page load times-frames                                                   
 
 <br></br>
 ## Responsiveness in GIFs
-![ResponsiveVsAdaptive](http://f.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2014/11/3038367-inline-i-1-9-gifs-that-explain-responsive-design-brilliantly-01responsive-vs-adaptive-copy.gif)
+![ResponsiveVsAdaptive](http://f.fastcompany.net/multisite_files/fastcompany/imagecache/inline-large/inline/2014/11/3038367-inline-i-1-9-gifs-that-explain-responsive-design-brilliantly-01responsive-vs-adaptive-copy.gif?w=240)
