@@ -45,4 +45,4 @@ Faster page load times-frames                                                   
 <br></br>
 ## Responsiveness in GIFs
 ![ResponsiveVsAdaptive](https://s3.eu-central-1.amazonaws.com/displaycase.akylleez/infogr8/responsive-gifs/3038367-inline-i-1-9-gifs-that-explain-responsive-design-brilliantly-01responsive-vs-adaptive-copy+(1).gif)
-
+###### Responsive designs fluidly expand, whereas adaptive designs hitch as you expand a browser or viewport.
