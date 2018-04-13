@@ -16,6 +16,7 @@ There are three main techniques for implementing a website that can handle view 
 
 ## Pros & Cons
 
+<br></br>
 1. **Responsive web design**
 
 Pros :thumbsup:                                                               | Cons :thumbsdown:
@@ -33,7 +34,7 @@ Is faster as the browser downloads the assets needed for the specific screen siz
 You can create a completely different user journey for different devices         | For adaptive web design you need to detect user-agents (sometimes called user-agent “sniffing”) which is generally an error-prone technique
 
 
-
+<br></br>
 3. **Separate URLs**
 
 Pros :thumbsup:                                                                    | Cons :thumbsdown:
