@@ -27,16 +27,16 @@ Requires less engineering time to maintain multiple pages for the same content| 
 
 2. **Adaptive web design**
 
-Pros :thumbsup:|Cons :thumbsdown:
-----|----
+Pros :thumbsup:                                                                  | Cons :thumbsdown:
+---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------
 Is faster as the browser downloads the assets needed for the specific screen size| You need to create many html templates for each device that's very time consuming for both development and maintanance 
-You can create a completely different user journey for different devices| For adaptive web design you need to detect user-agents (sometimes called user-agent “sniffing”) which is generally an error-prone technique
+You can create a completely different user journey for different devices         | For adaptive web design you need to detect user-agents (sometimes called user-agent “sniffing”) which is generally an error-prone technique
 
 
 
 3. **Separate URLs**
 
-Pros :thumbsup:|Cons :thumbsdown:
-----|----
+Pros :thumbsup:                                                                    | Cons :thumbsdown:
+-----------------------------------------------------------------------------------|-----------------------------------------------------
 Better user experience, the website being specifically optimized for mobile devices| Higher costs in terms of implementation, maintenance
-Faster page load times-frames| More challenges with user redirecting and cross-linking between the two platforms
+Faster page load times-frames                                                      | More challenges with user redirecting and cross-linking between the two platforms
